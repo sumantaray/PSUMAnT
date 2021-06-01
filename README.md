@@ -1,4 +1,4 @@
-# PSUMAnTA
+# PSUMAnT: PolySubstance Use Mining for Associations and Transitions
 
 Shiny App for PolySubstance Use Mining for Associations and Transitions.
 
